@@ -2,32 +2,14 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Evolutionary Genomics of _Drosophila_
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+We study the antagonistic coevolution between selfish genetic elements and their host genome as well as the evolution of 3D genome organization
 {:.center}
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/ATGC.png" %}
 
 {% include section.html %}
 
