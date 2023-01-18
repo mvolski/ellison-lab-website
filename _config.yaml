@@ -1,21 +1,21 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
-baseurl: /lab-website-template
+title: Ellison Lab
+description: Evolutionary genomics research laboratory at Rutgers University
+logo: images/logo.png
+#header: images/background.jpg
+footer: images/ATGC.svg
+baseurl: "" #/lab-website-template
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: chris.ellison@rutgers.edu
+  google-scholar: ieeSKDkAAAAJ
+  github: ellisonlab
+  #twitter: YourLabHandle
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 ### advanced settings
 
