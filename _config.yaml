@@ -4,7 +4,7 @@
 title: Ellison Lab
 description: Evolutionary genomics research laboratory at Rutgers University
 logo: images/logo.png
-#header: images/background.jpg
+header: images/trees.jpeg
 footer: images/ATGC.png
 baseurl: /ellison-lab-website
 
@@ -22,6 +22,9 @@ links:
 # automatic citations
 auto-cite:
   plugins:
+    - name: orcid
+      input: 
+        - ../_data/orcid.yaml
     - name: sources
       input:
         - ../_data/sources.yaml
