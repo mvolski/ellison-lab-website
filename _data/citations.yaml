@@ -1,18 +1,376 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1093/molbev/msac216
+  title: Mode and Tempo of 3D Genome Evolution in <i>Drosophila</i>
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+  - Nicole S Torosin
+  - Tirupathi Rao Golla
+  - Matthew A Lawlor
+  - Weihuan Cao
+  - Christopher E Ellison
+  publisher: Molecular Biology and Evolution
+  date: '2022-10-06'
+  link: https://doi.org/grn9m6
+  _cache: 60fe32cdaa78684a391e9e01252eaefc90f5bb70fb6ecd1a9b4df49a338e6af4
+- id: doi:10.1371/journal.pgen.1010268
+  title: Sex-specific variation in R-loop formation in Drosophila melanogaster
+  authors:
+  - Timothy J. Stanek
+  - Weihuan Cao
+  - Rohan M Mehra
+  - Christopher E. Ellison
+  publisher: PLOS Genetics
+  date: '2022-06-10'
+  link: https://doi.org/grn9m7
+  _cache: 87cbe7d1f7068c12689ce192377ead8eb8a40d9b9328b6b43ff82aa12f8eceaf
+- id: doi:10.1016/j.stem.2021.09.004
+  title: SATB2 preserves colon stem cell identity and mediates ileum-colon conversion
+    via enhancer remodeling
+  authors:
+  - Wei Gu
+  - Hua Wang
+  - Xiaofeng Huang
+  - Judith Kraiczy
+  - Pratik N.P. Singh
+  - Charles Ng
+  - Sezin Dagdeviren
+  - Sean Houghton
+  - Oscar Pellon-Cardenas
+  - Ying Lan
+  - Yaohui Nie
+  - Jiaoyue Zhang
+  - Kushal K. Banerjee
+  - Emily J. Onufer
+  - Brad W. Warner
+  - Jason Spence
+  - Ellen Scherl
+  - Shahin Rafii
+  - Richard T. Lee
+  - Michael P. Verzi
+  - David Redmond
+  - Randy Longman
+  - Kristian Helin
+  - Ramesh A. Shivdasani
+  - Qiao Zhou
+  publisher: Cell Stem Cell
+  date: '2022-01-01'
+  link: https://doi.org/gndmd5
+  _cache: c05390142c073f311d768aff2b59b04c5196864a3c4b8fd93b86c7258b200a04
+- id: doi:10.1038/s41467-021-27136-4
+  title: A transposon expression burst accompanies the activation of Y-chromosome
+    fertility genes during Drosophila spermatogenesis
+  authors:
+  - Matthew A. Lawlor
+  - Weihuan Cao
+  - Christopher E. Ellison
+  publisher: Nature Communications
+  date: '2021-11-25'
+  link: https://doi.org/grn9m8
+  _cache: c0eda53d6222c29bbf1e66dc2bc7e519acdd8aa9ed8bb099cb9271d63023020b
+- id: doi:10.1038/s41467-021-22761-5
+  title: The nuclear receptor HNF4 drives a brush border gene program conserved across
+    murine intestine, kidney, and embryonic yolk sac
+  authors:
+  - Lei Chen
+  - Shirley Luo
+  - Abigail Dupre
+  - Roshan P. Vasoya
+  - Aditya Parthasarathy
+  - Rohit Aita
+  - Raj Malhotra
+  - Joseph Hur
+  - Natalie H. Toke
+  - Eric Chiles
+  - Min Yang
+  - Weihuan Cao
+  - Juan Flores
+  - Christopher E. Ellison
+  - Nan Gao
+  - Amrik Sahota
+  - Xiaoyang Su
+  - Edward M. Bonder
+  - Michael P. Verzi
+  publisher: Nature Communications
+  date: '2021-05-17'
+  link: https://doi.org/grn9m9
+  _cache: f0b5390b18ad2e46dc7e366a2af3941b4ddcd19379d499981dc720e85e4f23a4
+- id: doi:10.1016/j.celrep.2020.108679
+  title: Three-dimensional interactions between enhancers and promoters during intestinal
+    differentiation depend upon HNF4
+  authors:
+  - Lei Chen
+  - Weihuan Cao
+  - Rohit Aita
+  - Dennis Aldea
+  - Juan Flores
+  - Nan Gao
+  - Edward M. Bonder
+  - Christopher E. Ellison
+  - Michael P. Verzi
+  publisher: Cell Reports
+  date: '2021-01-01'
+  link: https://doi.org/grn9nb
+  _cache: 8b0084d0d55f2bb216c150dd68e546868afe895b2e7a224a4fcad5a007e225b4
+- id: doi:10.1016/j.jcmgh.2020.08.005
+  title: Identification of Transcription Factors Regulating SARS-CoV-2 Entry Genes
+    in the Intestine
+  authors:
+  - L. Chen
+  - A. Marishta
+  - C.E. Ellison
+  - M.P. Verzi
+  publisher: Cellular and Molecular Gastroenterology and Hepatology
+  date: '2021-01-01'
+  link: https://doi.org/grn9nc
+  _cache: def25896753a2781a1d0d509fafad10cf5e8d6800ad9e7a343a0563890248f0a
+- id: doi:10.1371/journal.pbio.3000689
+  title: Telomeric TART elements target the piRNA machinery in Drosophila
+  authors:
+  - Christopher E. Ellison
+  - Meenakshi S. Kagda
+  - Weihuan Cao
+  publisher: PLOS Biology
+  date: '2020-12-21'
+  link: https://doi.org/grn9nd
+  _cache: c8308acc224acb7297e9272c6a99406514567f20311fecd7355ac4c86d6e62a3
+- id: doi:10.1371/journal.pgen.1009229
+  title: 3D genome evolution and reorganization in the Drosophila melanogaster species
+    group
+  authors:
+  - Nicole S. Torosin
+  - Aparna Anand
+  - Tirupathi Rao Golla
+  - Weihuan Cao
+  - Christopher E. Ellison
+  publisher: PLOS Genetics
+  date: '2020-12-07'
+  link: https://doi.org/grn9nf
+  _cache: fbb4c979d3a2c7493423a1ca300f01f1234fff8a65c0948fa464fdd83f340c1a
+- id: doi:10.1093/nar/gkz1080
+  title: Nanopore sequencing and Hi-C scaffolding provide insight into the evolutionary
+    dynamics of transposable elements and piRNA production in wild strains of Drosophila
+    melanogaster
+  authors:
+  - Christopher E Ellison
+  - Weihuan Cao
+  publisher: Nucleic Acids Research
+  date: '2019-11-22'
+  link: https://doi.org/gn266n
+  _cache: ee1d1ae813349a12ece8365ccac01154bc597d916a7ec9f7e603e2b85e16a167
+- id: doi:10.1371/journal.pgen.1008251
+  title: Recurrent gene co-amplification on Drosophila X and Y chromosomes
+  authors:
+  - Christopher Ellison
+  - Doris Bachtrog
+  publisher: PLOS Genetics
+  date: '2019-07-22'
+  link: https://doi.org/grn9ng
+  _cache: e5777bec1c2db2012d8cdb371c8df96088bfe1ee60e662c1a4a794e5438bea00
+- id: doi:10.1534/g3.119.400023
+  title: Adenine Methylation in <i>Drosophila</i> Is Associated with the Tissue-Specific
+    Expression of Developmental and Regulatory Genes
+  authors:
+  - Kinnary Shah
+  - Weihuan Cao
+  - Christopher E Ellison
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2019-06-01'
+  link: https://doi.org/ggr8zx
+  _cache: 63c6291709f8a1b360c41f34a1616c54e697eb4aa6b880f40762611eb0da99b7
+- id: doi:10.1371/journal.pbio.3000094
+  title: 'Contingency in the convergent evolution of a regulatory network: Dosage
+    compensation in Drosophila'
+  authors:
+  - Christopher Ellison
+  - Doris Bachtrog
+  publisher: PLOS Biology
+  date: '2019-02-11'
+  link: https://doi.org/ghv8j5
+  _cache: d28c8bd52e64148226d2c1281384020e86ed31538b5f655e038d463a5db68669
+- id: doi:10.1111/mec.13892
+  title: Continental-level population differentiation and environmental adaptation
+    in the mushroom<i>Suillus brevipes</i>
+  authors:
+  - Sara Branco
+  - Ke Bi
+  - Hui-Ling Liao
+  - Pierre Gladieux
+  - "H\xE9l\xE8ne Badouin"
+  - Christopher E. Ellison
+  - Nhu H. Nguyen
+  - Rytas Vilgalys
+  - Kabir G. Peay
+  - John W. Taylor
+  - Thomas D. Bruns
+  publisher: Molecular Ecology
+  date: '2016-11-04'
+  link: https://doi.org/gpfzsn
+  _cache: ded8130be8fa458e950691463d5dfd89fb006f053dcc2e97f5e63f0cb27265bd
+- id: doi:10.1093/gbe/evv182
+  title: 'Recombining without Hotspots: A Comprehensive Evolutionary Portrait of Recombination
+    in Two Closely Related Species of<i>Drosophila</i>'
+  authors:
+  - Caiti S. Smukowski Heil
+  - Chris Ellison
+  - Matthew Dubin
+  - Mohamed A.F. Noor
+  publisher: Genome Biology and Evolution
+  date: '2015-10-01'
+  link: https://doi.org/f7z279
+  _cache: b56d2d13e01f7633f5a973c31dd568796c10808b1952361be4d4228463696b4f
+- id: doi:10.1073/pnas.1503159112
+  title: Clonal reproduction in fungi
+  authors:
+  - John W. Taylor
+  - Christopher Hann-Soden
+  - Sara Branco
+  - Iman Sylvain
+  - Christopher E. Ellison
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2015-07-20'
+  link: https://doi.org/f7j698
+  _cache: 5c8c4d2e33ae959a2f9ea72659015337fbe970b1d74da35e28a25a752ba4fc47
+- id: doi:10.1111/mec.13132
+  title: Genetic isolation between two recently diverged populations of a symbiotic
+    fungus
+  authors:
+  - Sara Branco
+  - Pierre Gladieux
+  - Christopher E. Ellison
+  - Alan Kuo
+  - Kurt LaButti
+  - Anna Lipzen
+  - Igor V. Grigoriev
+  - Hui-Ling Liao
+  - Rytas Vilgalys
+  - Kabir G. Peay
+  - John W. Taylor
+  - Thomas D. Bruns
+  publisher: Molecular Ecology
+  date: '2015-04-02'
+  link: https://doi.org/f7fcjw
+  _cache: ffd25f22ff2d18c0f381b72f8db299406a40b17d69666362866aeeae0cd31e53
+- id: doi:10.7554/eLife.05899
+  title: Non-allelic gene conversion enables rapid evolutionary change at multiple
+    regulatory sites encoded by transposable elements
+  authors:
+  - Christopher E Ellison
+  - Doris Bachtrog
+  publisher: eLife
+  date: '2015-02-17'
+  link: https://doi.org/grn9nh
+  _cache: 52604abe3ce9e87480ff62de258fe8f945a13e3a8424320ea152b71784fa384c
+- id: doi:10.1371/journal.pone.0096784
+  title: Structural Variation among Wild and Industrial Strains of Penicillium chrysogenum
+  authors:
+  - Valerie L. Wong
+  - Christopher E. Ellison
+  - Michael B. Eisen
+  - Lior Pachter
+  - Rachel B. Brem
+  publisher: PLoS ONE
+  date: '2014-05-13'
+  link: https://doi.org/f57ks4
+  _cache: f428ab4d9b4c714f98f1b14a02d9c28e6b1692b4fe095ce51163ba6992452541
+- id: doi:10.1128/mBio.01046-13
+  title: Discovering Functions of Unannotated Genes from a Transcriptome Survey of
+    Wild Fungal Isolates
+  authors:
+  - Christopher E. Ellison
+  - David Kowbel
+  - N. Louise Glass
+  - John W. Taylor
+  - Rachel B. Brem
+  publisher: mBio
+  date: '2014-05-01'
+  link: https://doi.org/gmg9qn
+  _cache: c24f92349d621cb3bd532b694d2ad862166f6ec1489410d23844fd49d5fb93a8
+- id: doi:10.1126/science.1239552
+  title: Dosage Compensation via Transposable Element Mediated Rewiring of a Regulatory
+    Network
+  authors:
+  - Christopher E. Ellison
+  - Doris Bachtrog
+  publisher: Science
+  date: '2013-11-15'
+  link: https://doi.org/f5h7pq
+  _cache: 798089ce1299cc13af8ad1b7d921381425b483f9a3e6ef235e9036900024abec
+- id: doi:10.1371/journal.pbio.1001711
+  title: 'The Epigenome of Evolving Drosophila Neo-Sex Chromosomes: Dosage Compensation
+    and Heterochromatin Formation'
+  authors:
+  - Qi Zhou
+  - Christopher E. Ellison
+  - Vera B. Kaiser
+  - Artyom A. Alekseyenko
+  - Andrey A. Gorchakov
+  - Doris Bachtrog
+  publisher: PLoS Biology
+  date: '2013-11-12'
+  link: https://doi.org/f5jxj6
+  _cache: 31336b5d0d5871465e5827ad15d102cfe356a575c6b56df532eed94447b82c91
+- id: doi:10.1101/gad.215426.113
+  title: Conservation and de novo acquisition of dosage compensation on newly evolved
+    sex chromosomes in <i>Drosophila</i>
+  authors:
+  - Artyom A. Alekseyenko
+  - Christopher E. Ellison
+  - Andrey A. Gorchakov
+  - Qi Zhou
+  - Vera B. Kaiser
+  - Nick Toda
+  - Zaak Walton
+  - Shouyong Peng
+  - Peter J. Park
+  - Doris Bachtrog
+  - Mitzi I. Kuroda
+  publisher: Genes &amp; Development
+  date: '2013-04-15'
+  link: https://doi.org/f4v78x
+  _cache: 753a6e3166b0b5c7772b733030bce63a768949a57da183c17d7903dd2bfbb937
+- id: doi:10.1016/j.cub.2011.06.042
+  title: Nuclear and Genome Dynamics in Multinucleate Ascomycete Fungi
+  authors:
+  - Marcus Roper
+  - Chris Ellison
+  - "John\_W. Taylor"
+  - "N.\_Louise Glass"
+  publisher: Current Biology
+  date: '2011-09-01'
+  link: https://doi.org/d462jc
+  _cache: 607ab50befd1d82ffe95a80a278d274ca81eb060c9a6237cb9772244590e53b9
+- id: doi:10.1534/genetics.111.130690
+  title: Massive Changes in Genome Architecture Accompany the Transition to Self-Fertility
+    in the Filamentous Fungus <i>Neurospora tetrasperma</i>
+  authors:
+  - Christopher E Ellison
+  - Jason E Stajich
+  - David J Jacobson
+  - Donald O Natvig
+  - Alla Lapidus
+  - Brian Foster
+  - Andrea Aerts
+  - Robert Riley
+  - Erika A Lindquist
+  - Igor V Grigoriev
+  - John W Taylor
+  publisher: Genetics
+  date: '2011-09-01'
+  link: https://doi.org/b5bsqk
+  _cache: 1e63687800650db2a5f8130a2a6501ca0b7d259bdc91c36db58bd924d8c95a86
+- id: doi:10.1073/pnas.1014971108
+  title: Population genomics and local adaptation in wild isolates of a model microbial
+    eukaryote
+  authors:
+  - Christopher E. Ellison
+  - Charles Hall
+  - David Kowbel
+  - Juliet Welch
+  - Rachel B. Brem
+  - N. L. Glass
+  - John W. Taylor
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2011-01-31'
+  link: https://doi.org/dr4rs9
+  _cache: 662c9175e2a7a4e7701efcd6328186daf53548e453b66373aca80b633b9e7f43
