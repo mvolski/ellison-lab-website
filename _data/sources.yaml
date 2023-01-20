@@ -1,9 +1,26 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-    - knowledge graphs
-
+- id: pubmed:36201625
+- id: pubmed:35687614
+- id: pubmed:34582804
+- id: pubmed:34824217
+- id: pubmed:34001900
+- id: pubmed:33503426
+- id: pubmed:32810597
+- id: pubmed:33347429
+- id: pubmed:33284803
+- id: pubmed:31754714
+- id: pubmed:31329593
+- id: pubmed:30988038
+- id: pubmed:30742611
+- id: pubmed:27761941
+- id: pubmed:26430062
+- id: pubmed:26195774
+- id: pubmed:25728665
+- id: pubmed:25688566
+- id: pubmed:24824901
+- id: pubmed:24692637
+- id: pubmed:24233721
+- id: pubmed:24265597
+- id: pubmed:23630075
+- id: pubmed:21959169
+- id: pubmed:21750257
+- id: pubmed:21282627
