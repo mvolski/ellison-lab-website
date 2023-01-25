@@ -1,7 +1,7 @@
 ---
 name: 
 image: images/
-role: phd
+role: undergrad
 links:
   email: 
 ---
