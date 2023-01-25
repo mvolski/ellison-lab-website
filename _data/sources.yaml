@@ -1,26 +1,79 @@
 - id: doi:10.1093/molbev/msac216
+  title: Mode and Tempo of 3D Genome Evolution in <i>Drosophila</i>
+  authors:
+  - Nicole S Torosin
+  - Tirupathi Rao Golla
+  - Matthew A Lawlor
+  - Weihuan Cao
+  - Christopher E Ellison
+  publisher: Molecular Biology and Evolution
+  date: '2022-10-06'
+  link: https://doi.org/grn9m6
+  _cache: 60fe32cdaa78684a391e9e01252eaefc90f5bb70fb6ecd1a9b4df49a338e6af4
 - id: doi:10.1371/journal.pgen.1010268
-- id: doi:10.1016/j.stem.2021.09.004
+  title: Sex-specific variation in R-loop formation in Drosophila melanogaster
+  authors:
+  - Timothy J. Stanek
+  - Weihuan Cao
+  - Rohan M Mehra
+  - Christopher E. Ellison
+  publisher: PLOS Genetics
+  date: '2022-06-10'
+  link: https://doi.org/grn9m7
+  _cache: 87cbe7d1f7068c12689ce192377ead8eb8a40d9b9328b6b43ff82aa12f8eceaf
 - id: doi:10.1038/s41467-021-27136-4
-- id: doi:10.1038/s41467-021-22761-5
-- id: doi:10.1016/j.celrep.2020.108679
-- id: doi:10.1016/j.jcmgh.2020.08.005
+  title: A transposon expression burst accompanies the activation of Y-chromosome
+    fertility genes during Drosophila spermatogenesis
+  authors:
+  - Matthew A. Lawlor
+  - Weihuan Cao
+  - Christopher E. Ellison
+  publisher: Nature Communications
+  date: '2021-11-25'
+  link: https://doi.org/grn9m8
+  _cache: c0eda53d6222c29bbf1e66dc2bc7e519acdd8aa9ed8bb099cb9271d63023020b
 - id: doi:10.1371/journal.pbio.3000689
+  title: Telomeric TART elements target the piRNA machinery in Drosophila
+  authors:
+  - Christopher E. Ellison
+  - Meenakshi S. Kagda
+  - Weihuan Cao
+  publisher: PLOS Biology
+  date: '2020-12-21'
+  link: https://doi.org/grn9nd
+  _cache: c8308acc224acb7297e9272c6a99406514567f20311fecd7355ac4c86d6e62a3
 - id: doi:10.1371/journal.pgen.1009229
+  title: 3D genome evolution and reorganization in the Drosophila melanogaster species
+    group
+  authors:
+  - Nicole S. Torosin
+  - Aparna Anand
+  - Tirupathi Rao Golla
+  - Weihuan Cao
+  - Christopher E. Ellison
+  publisher: PLOS Genetics
+  date: '2020-12-07'
+  link: https://doi.org/grn9nf
+  _cache: fbb4c979d3a2c7493423a1ca300f01f1234fff8a65c0948fa464fdd83f340c1a
 - id: doi:10.1093/nar/gkz1080
-- id: doi:10.1371/journal.pgen.1008251
+  title: Nanopore sequencing and Hi-C scaffolding provide insight into the evolutionary
+    dynamics of transposable elements and piRNA production in wild strains of Drosophila
+    melanogaster
+  authors:
+  - Christopher E Ellison
+  - Weihuan Cao
+  publisher: Nucleic Acids Research
+  date: '2019-11-22'
+  link: https://doi.org/gn266n
+  _cache: ee1d1ae813349a12ece8365ccac01154bc597d916a7ec9f7e603e2b85e16a167
 - id: doi:10.1534/g3.119.400023
-- id: doi:10.1371/journal.pbio.3000094
-- id: doi:10.1111/mec.13892
-- id: doi:10.1093/gbe/evv182
-- id: doi:10.1073/pnas.1503159112
-- id: doi:10.1111/mec.13132
-- id: doi:10.7554/eLife.05899
-- id: doi:10.1371/journal.pone.0096784
-- id: doi:10.1128/mBio.01046-13
-- id: doi:10.1126/science.1239552
-- id: doi:10.1371/journal.pbio.1001711
-- id: doi:10.1101/gad.215426.113
-- id: doi:10.1016/j.cub.2011.06.042
-- id: doi:10.1534/genetics.111.130690
-- id: doi:10.1073/pnas.1014971108
+  title: Adenine Methylation in <i>Drosophila</i> Is Associated with the Tissue-Specific
+    Expression of Developmental and Regulatory Genes
+  authors:
+  - Kinnary Shah
+  - Weihuan Cao
+  - Christopher E Ellison
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2019-06-01'
+  link: https://doi.org/ggr8zx
+  _cache: 63c6291709f8a1b360c41f34a1616c54e697eb4aa6b880f40762611eb0da99b7
