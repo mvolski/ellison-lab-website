@@ -24,8 +24,8 @@
   publisher: PLOS Genetics
   date: '2022-06-10'
   link: https://doi.org/grn9m7
-  image: https://doi.org/10.1371/journal.pgen.1010268.g001
-  _cache: 32777fd88d566dc519f8bd257946e6d8d7399cd05a40071d0b45802c6354d226
+  image: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1010268.g001&type=large
+  _cache: 925b993bbdcebe216df5b4eec2691c13e8148901ec534ba24abe5375c24b8516
 - id: doi:10.1038/s41467-021-27136-4
   title: A transposon expression burst accompanies the activation of Y-chromosome
     fertility genes during <i>Drosophila</i> spermatogenesis
@@ -36,8 +36,8 @@
   publisher: Nature Communications
   date: '2021-11-25'
   link: https://doi.org/grn9m8
-  image: https://www.nature.com/articles/s41467-021-27136-4/figures/3
-  _cache: d42b94fef70e433834a2ce96fa6870a8c1656b80d5133493bdcdb373c72c93b5
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-27136-4/MediaObjects/41467_2021_27136_Fig1_HTML.png?as=webp
+  _cache: 109c892c05934242d7ce63435d68231c6dc2088524a9e80e8f277b56bd77f4ac
 - id: doi:10.1371/journal.pbio.3000689
   title: Telomeric TART elements target the piRNA machinery in <i>Drosophila</i>
   authors:
@@ -47,8 +47,8 @@
   publisher: PLOS Biology
   date: '2020-12-21'
   link: https://doi.org/grn9nd
-  image: https://journals.plos.org/plosbiology/article/figure/image?download&size=original&id=10.1371/journal.pbio.3000689.g005
-  _cache: e9504b867a2f33a89ad9eea14eb6c61bb553379ab139f473559ae568edd95c4b
+  image: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000689.g005&type=large
+  _cache: 6b1d912e033aa915056208f0abd8289af9f8e958ea87ab197ba2446301760c15
 - id: doi:10.1371/journal.pgen.1009229
   title: 3D genome evolution and reorganization in the <i>Drosophila melanogaster</i>
     species group
@@ -61,8 +61,8 @@
   publisher: PLOS Genetics
   date: '2020-12-07'
   link: https://doi.org/grn9nf
-  image: https://journals.plos.org/plosgenetics/article/figure/image?size=original&download=&id=10.1371/journal.pgen.1009229.g002
-  _cache: 490d1ef4fac17e25070186d88987b9fd63e1767d6129b53c6ad191efa5d9084d
+  image: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1009229.g002&type=large
+  _cache: 342391063ff359023cac9f382b10088cf586812aa94a6e7d22673e64a7098485
 - id: doi:10.1093/nar/gkz1080
   title: Nanopore sequencing and Hi-C scaffolding provide insight into the evolutionary
     dynamics of transposable elements and piRNA production in wild strains of <i>Drosophila
