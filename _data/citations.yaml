@@ -12,9 +12,10 @@
   publisher: Molecular Biology and Evolution
   date: '2022-10-06'
   link: https://doi.org/grn9m6
-  _cache: f1c1bcd715fcd973dea4d7a38d21ef54170df1383b3f482afe5f146341320b48
+  image: https://academic.oup.com/view-large/figure/379487581/msac216f3.tif
+  _cache: 50853cbe8509857ff52cf7e637d8fa4ece8a1937dd862ee7e437033b1d927a60
 - id: doi:10.1371/journal.pgen.1010268
-  title: Sex-specific variation in R-loop formation in Drosophila melanogaster
+  title: Sex-specific variation in R-loop formation in <i>Drosophila melanogaster</i>
   authors:
   - Timothy J. Stanek
   - Weihuan Cao
@@ -23,10 +24,11 @@
   publisher: PLOS Genetics
   date: '2022-06-10'
   link: https://doi.org/grn9m7
-  _cache: 7326be7d71c5c181c7226e738f350de59cec647e552b1e72874d02607e3de848
+  image: https://journals.plos.org/plosgenetics/article/figure?id=10.1371/journal.pgen.1010268.g002
+  _cache: c45b3892156b9cef1ce81befc1556226daa313564e173949ad0de53aba29ed3e
 - id: doi:10.1038/s41467-021-27136-4
   title: A transposon expression burst accompanies the activation of Y-chromosome
-    fertility genes during Drosophila spermatogenesis
+    fertility genes during <i>Drosophila</i> spermatogenesis
   authors:
   - Matthew A. Lawlor
   - Weihuan Cao
@@ -34,9 +36,10 @@
   publisher: Nature Communications
   date: '2021-11-25'
   link: https://doi.org/grn9m8
-  _cache: 6e9c1c9e13db58e78f01f02e00f6652555124d9d8b3a0cc3b943f46549e806bb
+  image: https://www.nature.com/articles/s41467-021-27136-4/figures/3
+  _cache: d42b94fef70e433834a2ce96fa6870a8c1656b80d5133493bdcdb373c72c93b5
 - id: doi:10.1371/journal.pbio.3000689
-  title: Telomeric TART elements target the piRNA machinery in Drosophila
+  title: Telomeric TART elements target the piRNA machinery in <i>Drosophila</i>
   authors:
   - Christopher E. Ellison
   - Meenakshi S. Kagda
@@ -44,10 +47,11 @@
   publisher: PLOS Biology
   date: '2020-12-21'
   link: https://doi.org/grn9nd
-  _cache: b0a080dff20b35eb13f12ab6c3b35f1354fc5f38c2bd0602d082983b77d3b184
+  image: https://journals.plos.org/plosbiology/article/figure/image?download&size=original&id=10.1371/journal.pbio.3000689.g005
+  _cache: e9504b867a2f33a89ad9eea14eb6c61bb553379ab139f473559ae568edd95c4b
 - id: doi:10.1371/journal.pgen.1009229
-  title: 3D genome evolution and reorganization in the Drosophila melanogaster species
-    group
+  title: 3D genome evolution and reorganization in the <i>Drosophila melanogaster</i>
+    species group
   authors:
   - Nicole S. Torosin
   - Aparna Anand
@@ -57,18 +61,20 @@
   publisher: PLOS Genetics
   date: '2020-12-07'
   link: https://doi.org/grn9nf
-  _cache: 8de92a9fbd47a78015afe4be89c0780f59b8512a99bba8294e9480bf7ca97bbc
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=original&download=&id=10.1371/journal.pgen.1009229.g002
+  _cache: 490d1ef4fac17e25070186d88987b9fd63e1767d6129b53c6ad191efa5d9084d
 - id: doi:10.1093/nar/gkz1080
   title: Nanopore sequencing and Hi-C scaffolding provide insight into the evolutionary
-    dynamics of transposable elements and piRNA production in wild strains of Drosophila
-    melanogaster
+    dynamics of transposable elements and piRNA production in wild strains of <i>Drosophila
+    melanogaster</i>
   authors:
   - Christopher E Ellison
   - Weihuan Cao
   publisher: Nucleic Acids Research
   date: '2019-11-22'
   link: https://doi.org/gn266n
-  _cache: 53ba06957c5ebcba12ff7e8019d38c4b49ca6231a4d69d653e0042d7cab335fc
+  image: https://academic.oup.com/view-large/figure/190397186/gkz1080fig2.jpg
+  _cache: 1b764bbbbdcff80da4ccad91204312b948adbdb090c722bc595215e62a4d414f
 - id: doi:10.1534/g3.119.400023
   title: Adenine Methylation in <i>Drosophila</i> Is Associated with the Tissue-Specific
     Expression of Developmental and Regulatory Genes
@@ -79,4 +85,5 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2019-06-01'
   link: https://doi.org/ggr8zx
-  _cache: 4d39e2f963550b317a1c6c4066026276519c8f13ae0e49ad2c061255b591a4d1
+  image: https://academic.oup.com/view-large/figure/235561918/1893f3.gif
+  _cache: ec3c98bd27b93b24aa745a1b2f729a37f2162f0cb2978c992f82c02a10b7d96b
