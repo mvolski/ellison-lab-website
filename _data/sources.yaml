@@ -13,7 +13,7 @@
   _cache: 60fe32cdaa78684a391e9e01252eaefc90f5bb70fb6ecd1a9b4df49a338e6af4
 - id: doi:10.1371/journal.pgen.1010268
   title: Sex-specific variation in R-loop formation in <i>Drosophila melanogaster</i>
-  image: https://doi.org/10.1371/journal.pgen.1010268.g001
+  image: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1010268.g001&type=large
   authors:
   - Timothy J. Stanek
   - Weihuan Cao
@@ -26,7 +26,7 @@
 - id: doi:10.1038/s41467-021-27136-4
   title: A transposon expression burst accompanies the activation of Y-chromosome
     fertility genes during <i>Drosophila</i> spermatogenesis
-  image: https://www.nature.com/articles/s41467-021-27136-4/figures/3
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-27136-4/MediaObjects/41467_2021_27136_Fig1_HTML.png?as=webp
   authors:
   - Matthew A. Lawlor
   - Weihuan Cao
@@ -37,7 +37,7 @@
   _cache: c0eda53d6222c29bbf1e66dc2bc7e519acdd8aa9ed8bb099cb9271d63023020b
 - id: doi:10.1371/journal.pbio.3000689
   title: Telomeric TART elements target the piRNA machinery in <i>Drosophila</i>
-  image: https://journals.plos.org/plosbiology/article/figure/image?download&size=original&id=10.1371/journal.pbio.3000689.g005
+  image: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000689.g005&type=large
   authors:
   - Christopher E. Ellison
   - Meenakshi S. Kagda
@@ -49,7 +49,7 @@
 - id: doi:10.1371/journal.pgen.1009229
   title: 3D genome evolution and reorganization in the <i>Drosophila melanogaster</i> species
     group
-  image: https://journals.plos.org/plosgenetics/article/figure/image?size=original&download=&id=10.1371/journal.pgen.1009229.g002
+  image: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1009229.g002&type=large
   authors:
   - Nicole S. Torosin
   - Aparna Anand
