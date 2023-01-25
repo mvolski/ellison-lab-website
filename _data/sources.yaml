@@ -1,4 +1,5 @@
 - id: doi:10.1093/molbev/msac216
+  image: https://academic.oup.com/view-large/figure/379487581/msac216f3.tif
   title: Mode and Tempo of 3D Genome Evolution in <i>Drosophila</i>
   authors:
   - Nicole S Torosin
@@ -11,7 +12,8 @@
   link: https://doi.org/grn9m6
   _cache: 60fe32cdaa78684a391e9e01252eaefc90f5bb70fb6ecd1a9b4df49a338e6af4
 - id: doi:10.1371/journal.pgen.1010268
-  title: Sex-specific variation in R-loop formation in Drosophila melanogaster
+  title: Sex-specific variation in R-loop formation in <i>Drosophila melanogaster</i>
+  image: https://journals.plos.org/plosgenetics/article/figure?id=10.1371/journal.pgen.1010268.g002
   authors:
   - Timothy J. Stanek
   - Weihuan Cao
@@ -23,7 +25,8 @@
   _cache: 87cbe7d1f7068c12689ce192377ead8eb8a40d9b9328b6b43ff82aa12f8eceaf
 - id: doi:10.1038/s41467-021-27136-4
   title: A transposon expression burst accompanies the activation of Y-chromosome
-    fertility genes during Drosophila spermatogenesis
+    fertility genes during <i>Drosophila</i> spermatogenesis
+  image: https://www.nature.com/articles/s41467-021-27136-4/figures/3
   authors:
   - Matthew A. Lawlor
   - Weihuan Cao
@@ -33,7 +36,8 @@
   link: https://doi.org/grn9m8
   _cache: c0eda53d6222c29bbf1e66dc2bc7e519acdd8aa9ed8bb099cb9271d63023020b
 - id: doi:10.1371/journal.pbio.3000689
-  title: Telomeric TART elements target the piRNA machinery in Drosophila
+  title: Telomeric TART elements target the piRNA machinery in <i>Drosophila</i>
+  image: https://journals.plos.org/plosbiology/article/figure/image?download&size=original&id=10.1371/journal.pbio.3000689.g005
   authors:
   - Christopher E. Ellison
   - Meenakshi S. Kagda
@@ -43,8 +47,9 @@
   link: https://doi.org/grn9nd
   _cache: c8308acc224acb7297e9272c6a99406514567f20311fecd7355ac4c86d6e62a3
 - id: doi:10.1371/journal.pgen.1009229
-  title: 3D genome evolution and reorganization in the Drosophila melanogaster species
+  title: 3D genome evolution and reorganization in the <i>Drosophila melanogaster</i> species
     group
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=original&download=&id=10.1371/journal.pgen.1009229.g002
   authors:
   - Nicole S. Torosin
   - Aparna Anand
@@ -57,8 +62,9 @@
   _cache: fbb4c979d3a2c7493423a1ca300f01f1234fff8a65c0948fa464fdd83f340c1a
 - id: doi:10.1093/nar/gkz1080
   title: Nanopore sequencing and Hi-C scaffolding provide insight into the evolutionary
-    dynamics of transposable elements and piRNA production in wild strains of Drosophila
-    melanogaster
+    dynamics of transposable elements and piRNA production in wild strains of <i>Drosophila
+    melanogaster</i>
+  image: https://academic.oup.com/view-large/figure/190397186/gkz1080fig2.jpg
   authors:
   - Christopher E Ellison
   - Weihuan Cao
@@ -69,6 +75,7 @@
 - id: doi:10.1534/g3.119.400023
   title: Adenine Methylation in <i>Drosophila</i> Is Associated with the Tissue-Specific
     Expression of Developmental and Regulatory Genes
+  image: https://academic.oup.com/view-large/figure/235561918/1893f3.gif
   authors:
   - Kinnary Shah
   - Weihuan Cao
