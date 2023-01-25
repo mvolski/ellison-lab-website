@@ -1,6 +1,6 @@
 ---
 name: Christopher E. Ellison
-image: images/ellison.jpg
+image: images/ellison.jpeg
 description: Principal Investigator
 role: pi
 links:
