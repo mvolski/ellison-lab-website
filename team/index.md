@@ -19,14 +19,21 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc"
+  filters="role: ug"
 %}
+
 {:.center}
 
 {% include section.html %}
