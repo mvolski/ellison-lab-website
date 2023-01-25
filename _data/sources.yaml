@@ -13,7 +13,7 @@
   _cache: 60fe32cdaa78684a391e9e01252eaefc90f5bb70fb6ecd1a9b4df49a338e6af4
 - id: doi:10.1371/journal.pgen.1010268
   title: Sex-specific variation in R-loop formation in <i>Drosophila melanogaster</i>
-  image: https://journals.plos.org/plosgenetics/article/figure?id=10.1371/journal.pgen.1010268.g002
+  image: https://doi.org/10.1371/journal.pgen.1010268.g001
   authors:
   - Timothy J. Stanek
   - Weihuan Cao
@@ -64,7 +64,7 @@
   title: Nanopore sequencing and Hi-C scaffolding provide insight into the evolutionary
     dynamics of transposable elements and piRNA production in wild strains of <i>Drosophila
     melanogaster</i>
-  image: https://academic.oup.com/view-large/figure/190397186/gkz1080fig2.jpg
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/1/10.1093_nar_gkz1080/1/gkz1080fig2.jpeg?Expires=1677699836&Signature=ApXdbJ1UGGbKAkHNo4fjbE92lMHgWs7EHdkY2QkH-N0DrHxkIR~LKoKFZHLxNd~sH9af-sdgGrk9Hci4G3GLztC7oqn~2K-m5gC2Nt3mbvK8jTs~6D2LYuCWA3aNMwQTiE7vHfOVuSEvNL4x5l4tfSunpOLUq3F4Lbc3-MQSkpANAsPUmIfuTk940d3zEtZzVkyGtvjQcC18xJVJu2wf4btbMe4yzZ2mLMW16Jvj3Wjf4D33tNW9QDkBG1Dn7r7e05aeEBQKuzR54QWOOnmQrwjufdX5-5pl2F0BS1ObZJLA3Q3GXsnuqR1x03qFCtjaLfiG9C7xAQkPF8hgNsKuhg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   authors:
   - Christopher E Ellison
   - Weihuan Cao
@@ -75,7 +75,7 @@
 - id: doi:10.1534/g3.119.400023
   title: Adenine Methylation in <i>Drosophila</i> Is Associated with the Tissue-Specific
     Expression of Developmental and Regulatory Genes
-  image: https://academic.oup.com/view-large/figure/235561918/1893f3.gif
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/g3journal/9/6/10.1534_g3.119.400023/3/1893f3.gif?Expires=1677699781&Signature=LvZxt9bE5tPaj~mUiknZXy~SUP97WNqumX1UZ~q~HJJQDal1hQU6uzb9~kVJ6TKzKZIQ4A4rQavdhXVPhelKSjRTOhRbs49Un0BRXxTGhIbutXUxOMz0B-uhivJrTRGt9EYDqq0DF4p3i-dMOtVgxvBYrZN4854DHNooeags~J5LUiIq7kdjR15My5dU~dY3o62-4992q4mVerBSw8s2FWTHL5TqttpHxhfbOPEebSMaWg9oSFKOp1Yn4hrtRvo~cAL79J4ujpjeNscKJQ4gtP285AQWEZVCGAc07i2lCAHvexi6bo2hMYPESFVIyQUcd-ljktarVV8x64XBtklGoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   authors:
   - Kinnary Shah
   - Weihuan Cao
