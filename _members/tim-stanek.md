@@ -2,7 +2,7 @@
 name: Timothy J. Stanek
 image: images/Stanek_TJ_cropped.jpg
 role: INSPIRE Postdoctoral Fellow
-links: https://rwjms.rutgers.edu/research/inspire/fellows/tim-stanek
+links:
   orcid: 0000-0001-9192-4978
   email: timothy.stanek@rutgers.edu
 ---
