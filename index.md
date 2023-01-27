@@ -8,7 +8,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/fly_banner.png" %}
+{% include banner.html image="images/fly_banner.png" tooltip="Images generated using DALL-E 2" %}
 
 {% include section.html %}
 
